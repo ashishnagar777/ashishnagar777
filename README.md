@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Nagar</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot Enthusiast | Problem Solver</h3>
+<h3 align="center">Junior Software Engineer | Spring Boot Enthusiast | Problem Solver</h3>
 
 ## 🚀 Featured Projects
 - 📚 LibVision – Library Management System with OpenCV Face Recognition
